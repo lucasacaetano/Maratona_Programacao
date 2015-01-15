@@ -1,0 +1,5 @@
+Lista de coisas a serem feitas e status:
+Paradas:
+-arquivo para classificação do tipo de solução de cada problema e dificuldade
+-refazer os códigos já feitos e adicionar os devidos comentarios
+-adicionar problemas já feitos que estao faltando
