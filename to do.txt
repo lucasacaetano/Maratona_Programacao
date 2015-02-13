@@ -1,5 +1,8 @@
 Lista de coisas a serem feitas e status:
-Paradas:
--arquivo para classificação do tipo de solução de cada problema e dificuldade
+			Em andamento:
 -refazer os códigos já feitos e adicionar os devidos comentarios
 -adicionar problemas já feitos que estao faltando
+
+			Paradas:
+-arquivo para classificação do tipo de solução de cada problema e dificuldade
+
