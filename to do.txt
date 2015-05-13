@@ -1,8 +1,9 @@
 Lista de coisas a serem feitas e status:
 			Em andamento:
--refazer os cÛdigos j· feitos e adicionar os devidos comentarios
--adicionar problemas j· feitos que estao faltando
+-refazer os c√≥digos j√° feitos e adicionar os devidos comentarios
+-adicionar problemas j√° feitos que estao faltando
 
 			Paradas:
--arquivo para classificaÁ„o do tipo de soluÁ„o de cada problema e dificuldade
+-arquivo para classifica√ß√£o do tipo de solu√ß√£o de cada problema e dificuldade
+-trazer os arquivos do programming challenges para o UVA e mudar o arquivo de resolvidos para o README.Tm
 
