@@ -1,5 +1,5 @@
 //http://br.spoj.com/problems/JBUSCA12/
-//codigo / id:  JBUSCA12 /
+//codigo / id:  JBUSCA12 / 20003
 #include <iostream>
 
 using std::cin;
