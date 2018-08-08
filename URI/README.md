@@ -13,7 +13,7 @@ Problemas básicos para quem está iniciando na progrmação...
 
 Código|Título|Técnia
 ---|---|---
-[1161]|[Tempo de um Evento][1061S]|Biblioteca de tempo [`<ctime>`][<ctime>]
+[1061]|[Tempo de um Evento][1061S]|Biblioteca de tempo [`<ctime>`][<ctime>]
 [1179]|[Preenchimento de Vetor IV][1179S]|Estrutura de dados (Lista) [`<list>`][containers]
 
 [1061]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1061
