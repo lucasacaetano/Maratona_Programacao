@@ -24,7 +24,7 @@ Fila, Pilhas, Ordenação, Mapas...
 
 Código|Título|Técnia
 ---|---|---
-1023|[Estiagem][1023]|'<map>'
+1023|[Estiagem][1023]|`<map>`
 1025|[Onde está o Mármore?][1025]|Ordenação e Busca Binária `<algoritm>, sort(), binary_search(), equal_range()`
 
 [1023]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1023
