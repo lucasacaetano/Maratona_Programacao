@@ -7,13 +7,7 @@ Pasta destinada ao repositódio de problemas [URI Online Judge](https://www.urio
 
 ## Iniciante
 
-Pasta com os problemas categorizados como iniciantes no repositório
-
-### Destaques
-
-A maioria dos problemas nessa categoria não necessitam de muito conhecimento diferenciado e podem ser resolvidos tranquilamente.
-A tabela abaixo destacam alguns problemas específicos onde a utilização de bibliotecas específicas ou técnicas de programação facilitam sua resolução.
-
+Problemas básicos para quem es´ta iniciando na progrmação...
 
 Código|Título|Técnia
 ---|---|---
@@ -30,7 +24,8 @@ Fila, Pilhas, Ordenação, Mapas...
 
 Código|Título|Técnia
 ---|---|---
-1025|[Onde está o Mármore?][1025]|Ordenação e Busca Binária`<algoritm>, sort(), binary_search, equal_range`
+1023|[Estiagem][1023]|'<map>'
+1025|[Onde está o Mármore?][1025]|Ordenação e Busca Binária `<algoritm>, sort(), binary_search(), equal_range()`
 
-
+[1023]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1023
 [1025]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1025
