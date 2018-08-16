@@ -27,7 +27,7 @@ Fila, Pilhas, Ordenação, Mapas...
 
 Problema|Solução|Recurso
 ---|---|---
-[1022]|[TDA Racional][1022S]|Classe, Sobrecarga de operadores e Maior divisor comum [`Algoritmo de Euclides`][gdc]
+[1022]|[TDA Racional][1022S]|Classe, Sobrecarga de operadores e Maior divisor comum [`Algoritmo de Euclides`][gcd]
 [1023]|[Estiagem][1023S]|[`<map>`][containers]
 [1025]|[Onde está o Mármore?][1025S]|Ordenação e Busca Binária [`<algoritm> {sort(), binary_search(), equal_range()}`][<algorithm>]
 
