@@ -11,7 +11,7 @@ Nas tabelas abaixo existem alguns problemas destacados, por categoria, indicando
 
 Problemas básicos para quem está iniciando na progrmação...
 
-Código|Título|Técnia
+Problema|Solução|Recurso
 ---|---|---
 [1061]|[Tempo de um Evento][1061S]|Biblioteca de tempo [`<ctime>`][<ctime>]
 [1179]|[Preenchimento de Vetor IV][1179S]|Estrutura de dados (Lista) [`<list>`][containers]
@@ -25,17 +25,32 @@ Código|Título|Técnia
 
 Fila, Pilhas, Ordenação, Mapas...
 
-Código|Título|Técnica
+Problema|Solução|Recurso
 ---|---|---
+[1022]|[TDA Racional][1022S]|Classe, Sobrecarga de operadores e Maior divisor comum [`Algoritmo de Euclides`][gdc]
 [1023]|[Estiagem][1023S]|[`<map>`][containers]
 [1025]|[Onde está o Mármore?][1025S]|Ordenação e Busca Binária [`<algoritm> {sort(), binary_search(), equal_range()}`][<algorithm>]
 
+[1022]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1022
+[1022S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Estruturas/1022_TDA_Racional.cpp
 [1023]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1023
 [1023S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Estruturas/1023_Estiagem.cpp
 [1025]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1025
 [1025S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Estruturas/1025_Onde_Esta_o_Marmore.cpp
 
+## Grafos
+
+Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
+
+Problema|Solução|Recurso
+---|---|---
+[1191]|[Recuperação da Árvore][1191S]|`Árvoes Binárias`[`<map>`][containers]
+
+[1191]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1191
+[1191S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Grafos/1191_Recuperacao_da_Arvore.cpp
+
 
 [<algorithm>]: http://www.cplusplus.com/reference/algorithm/
 [<ctime>]: http://www.cplusplus.com/reference/ctime/
 [containers]: http://www.cplusplus.com/reference/stl/
+[gcd]: https://en.wikipedia.org/wiki/Euclidean_algorithm#Procedure
