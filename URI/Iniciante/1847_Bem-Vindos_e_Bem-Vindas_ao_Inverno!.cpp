@@ -15,12 +15,13 @@ int main() {
         if( (delta2 < 0) &&(delta2 > delta1) ) humor = FELIZ;
         if( (delta2 < 0) &&(delta2 <= delta1) ) humor = TRISTE;
     }
-    // Subida do 1° para o ° dia
+    // Subida do 1° para o 2° dia
     if( delta1 > 0 ) {
         if(delta2 <= 0) humor = TRISTE;
         if( (delta2 > 0) && (delta2 < delta1) ) humor = TRISTE;
         if( (delta2 > 0) && (delta2 >= delta1) ) humor = FELIZ;
     }
+    // Temperatura constante do 1° para o 2° dia
     if( (delta1 == 0) ) {
         if(delta2 > 0) humor = FELIZ;
         else humor = TRISTE;
