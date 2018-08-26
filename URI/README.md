@@ -15,11 +15,14 @@ Problema|Solução|Recurso
 ---|---|---
 [1061]|[Tempo de um Evento][1061S]|Biblioteca de tempo [`<ctime>`][<ctime>]
 [1179]|[Preenchimento de Vetor IV][1179S]|Estrutura de dados (Lista) [`<list>`][containers]
+[1848]|[Corvo Contador][1848S]|[`<bitset>`][<bitset>]
 
 [1061]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1061
 [1061S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1061_Tempo_de_um_Evento.cpp
 [1179]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1179
 [1179S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1179_Preenchimento_de_Vetor_IV.cpp
+[1848]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1848
+[1848S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1848_Corvo_Contador.cpp
 
 ## Estruturas e Bibliotecas
 
@@ -52,5 +55,6 @@ Problema|Solução|Recurso
 
 [<algorithm>]: http://www.cplusplus.com/reference/algorithm/
 [<ctime>]: http://www.cplusplus.com/reference/ctime/
+[<bitset>]: http://www.cplusplus.com/reference/bitset/bitset/
 [containers]: http://www.cplusplus.com/reference/stl/
 [gcd]: https://en.wikipedia.org/wiki/Euclidean_algorithm#Procedure
