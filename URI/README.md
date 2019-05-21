@@ -16,6 +16,7 @@ Problema|Solução|Recurso
 [1061]|[Tempo de um Evento][1061S]|Biblioteca de tempo [`<ctime>`][<ctime>]
 [1179]|[Preenchimento de Vetor IV][1179S]|Estrutura de dados (Lista) [`<list>`][containers]
 [1848]|[Corvo Contador][1848S]|[`<bitset>`][<bitset>]
+[1921]|[Guilherme e Suas Pipas][1921S]|Diagonais de um polígono d = (n * (n - 3) ) / 2
 
 [1061]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1061
 [1061S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1061_Tempo_de_um_Evento.cpp
@@ -23,6 +24,8 @@ Problema|Solução|Recurso
 [1179S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1179_Preenchimento_de_Vetor_IV.cpp
 [1848]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1848
 [1848S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1848_Corvo_Contador.cpp
+[1921]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1921
+[1921S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Iniciante/1921_Ghilherme_e_Suas_Pipas.cpp
 
 ## Estruturas e Bibliotecas
 
