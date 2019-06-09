@@ -47,10 +47,13 @@ Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
 
 Problema|Solução|Recurso
 ---|---|---
-[1191]|[Recuperação da Árvore][1191S]|`Árvoes Binárias`[`<map>`][containers]
+[1610]|[Recuperação da Árvore][1191S]|`Árvoes Binárias`[`<map>`][containers]
+[1191]|[Dudu Faz Servico][1610S]|`DFS` [Ciclos em grafo ][cycle_in_graph]
 
 [1191]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1191
+[1610]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1610
 [1191S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Grafos/1191_Recuperacao_da_Arvore.cpp
+[1610S]: https://github.com/lucasacaetano/Maratona_Programacao/blob/master/URI/Grafos/1610_Dudu_Faz_Servico.cpp
 
 
 [<algorithm>]: http://www.cplusplus.com/reference/algorithm/
@@ -58,3 +61,4 @@ Problema|Solução|Recurso
 [<bitset>]: http://www.cplusplus.com/reference/bitset/bitset/
 [containers]: http://www.cplusplus.com/reference/stl/
 [gcd]: https://en.wikipedia.org/wiki/Euclidean_algorithm#Procedure
+[cycle_in_graph]: https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
